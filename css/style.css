@@ -1,0 +1,29 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar {
+    background-color: #d50000;
+}
+
+.quem-somos {
+    background-color: #ff5252;
+}
+.margin {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.membros {
+    background-color: #ff5252;
+    
+
+}
+.servicos {
+    background-color: #ff5252;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
